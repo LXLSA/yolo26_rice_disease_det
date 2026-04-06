@@ -1,8 +1,0 @@
-/* 自定义样式（如果需要覆盖Tailwind） */
-#resultList::-webkit-scrollbar {
-    width: 4px;
-}
-#resultList::-webkit-scrollbar-thumb {
-    background-color: #cbd5e0;
-    border-radius: 2px;
-}
