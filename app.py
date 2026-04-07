@@ -11,7 +11,7 @@ app.secret_key = 'your-secret-key-change-this-in-prod'
 CORS(app)
 
 # 通义千问配置
-QWEN_API_KEY = "sk-7eccff53deb14d43b4fa79eb5d8030bf"
+QWEN_API_KEY = "sk-******************"
 client = OpenAI(
     api_key=QWEN_API_KEY,
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
