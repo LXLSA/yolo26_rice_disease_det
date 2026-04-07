@@ -3,7 +3,7 @@ from openai import OpenAI
 import os
 
 # ===== 请在这里填写你的通义千问 API Key =====
-API_KEY = "sk-7eccff53deb14d43b4fa79eb5d8030bf"  # <--- 替换成你的真实 Key
+API_KEY = "sk-*********************"  # <--- 替换成你的真实 Key
 # =========================================
 
 # 初始化客户端（指向阿里云的接口地址）
